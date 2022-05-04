@@ -1,0 +1,2 @@
+This is where the view engine by default will go and look for
+the files that you're trying to render.
